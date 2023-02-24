@@ -431,10 +431,11 @@ div.cursors div {
   margin-right: 10%;
   margin-top: 15px;
   justify-content: center;
-  text-align: justify;
+  text-align: left;
 }
 
 #centerheading {
   text-align: center;
   margin-top: 15px;
 }
+
