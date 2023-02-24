@@ -1,0 +1,57 @@
+<div class="container-fluid">
+        <div class="row mt-3">
+          <div class="col-lg-6">
+            <div class="projectcontainer">
+            <div class="box" style="--clr:#00FFFF;">
+                <div class="content">
+                  <div class="icon"><ion-icon name="code-slash-outline"></ion-icon>
+                    <a href="www.google.come" class="link">Coach Sonia</a>
+                  </div>
+                </div>
+              </div>
+              <div class="box" style="--clr:#00FFFF;">
+                <div class="content">
+                  <div class="icon"><ion-icon name="layers-outline"></ion-icon>
+                    <a href="www.google.come" class="link">Coach Sonia</a>
+                  </div>
+                </div>
+              </div>
+                <div class="box" style="--clr:#00FFFF;">
+                  <div class="content">
+                    <div class="icon"><ion-icon name="code-slash-outline"></ion-icon>
+                      <a href="www.google.come" class="link">Coach Sonia</a>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+        
+          <div class="col-lg-6">
+            <div class="projectcontainer">
+            <div class="box" style="--clr:#00FFFF;">
+                <div class="content">
+                  <div class="icon"><ion-icon name="code-slash-outline"></ion-icon>
+                    <a href="www.google.come" class="link">Coach Sonia</a>
+                  </div>
+                </div>
+              </div>
+              <div class="box" style="--clr:#00FFFF;">
+                <div class="content">
+                  <div class="icon"><ion-icon name="layers-outline"></ion-icon>
+                    <a href="www.google.come" class="link">Coach Sonia</a>
+                  </div>
+                </div>
+              </div>
+                <div class="box" style="--clr:#00FFFF;">
+                  <div class="content">
+                    <div class="icon"><ion-icon name="code-slash-outline"></ion-icon>
+                      <a href="www.google.come" class="link">Coach Sonia</a>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            </div>       
+        </div>
+      </div>
+    </div>
